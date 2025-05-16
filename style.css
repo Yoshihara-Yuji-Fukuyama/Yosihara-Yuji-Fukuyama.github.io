@@ -1,11 +1,9 @@
 h1, h2, footer {
-    text-align:center;
     font-family: "Noto Sans", sans-serif;
 }
 
 div {
-    text-align: center;
-    max-width: 100%;
+    max-width: 640px;
     margin-right: auto;
     margin-left: auto;
 }
@@ -14,12 +12,13 @@ h2{
     box-shadow:0 0 10px 0 #ccc;
 }
 
-body{
-    background-color:#fff8e1;
-    padding-top:10px;
-    padding-right:20px;
-    padding-bottom:10px;
-    padding-left:20px;
+body {
+    text-align: center;
+    background-color: #fff8e1;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
 }
 
 table {
